@@ -10,4 +10,4 @@ const whatsAppSchema = mongoose.Schema({
 });
 
 //giving a name to our collection
-export default mongoose.model("messageContent", whatsAppSchema);
+export default mongoose.model("messagecontents", whatsAppSchema);

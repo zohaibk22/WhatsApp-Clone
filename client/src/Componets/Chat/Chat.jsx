@@ -249,10 +249,7 @@ export default function Chat() {
                     type='submit'
                     
                     >
-
-                        Send a message
-    
-
+                       Send a message
                     </button>
 
                     <MicIcon />
